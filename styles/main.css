@@ -60,6 +60,10 @@
         font-size: 25px;
     }
 
+    #open-hamburger{
+        display: none;
+    }
+
     #close-hamburger{
         margin-top: 20px;
         padding-bottom: 1rem;
@@ -249,6 +253,10 @@
         #future__slider{
             display: none;
         
+        }
+
+        #open-hamburger{
+            display: block;
         }
     }
     
